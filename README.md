@@ -1,5 +1,5 @@
-# Algorithms_project
-This repository is for the final project on using classifiers for Algorithms class.
+# NYC Construction Worker Accident Report
+(This repository is for the final project on using classifiers for Algorithms class.)
 
 Construction work is amongst the most dangerous jobs in New York City, and injuries and fatalities have only risen over the years. Even in 2020 buildings under construction were on the rise, undeterred by the pandemic. By the end of the year, worker injuries had doubled since 2019.
 
